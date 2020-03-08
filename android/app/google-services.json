@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "834411503262",
+    "firebase_url": "https://flutter-chat-b92da.firebaseio.com",
+    "project_id": "flutter-chat-b92da",
+    "storage_bucket": "flutter-chat-b92da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834411503262:android:2d69d39db68197c286a58f",
+        "android_client_info": {
+          "package_name": "co.rainsound.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834411503262-4vbnjg05k5hefrg8r5h217ing4bt4m3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfnMZkc8qOwuXrjS4Ge_v26bxoAuW7Fog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834411503262-4vbnjg05k5hefrg8r5h217ing4bt4m3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
